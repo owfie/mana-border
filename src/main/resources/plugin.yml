@@ -1,0 +1,17 @@
+name: WorldBorderPlus
+version: ${project.version}
+main: dev.alfieedgeworth.worldborderplus.Main
+api-version: 1.17
+commands:
+  balance:
+    description: Gets the player's balance.
+    usage: /<command>
+    aliases: [ ]
+  spend:
+    description: Spends XP to increase the world border.
+    usage: /<command>
+    aliases: [ ]
+  center:
+    description: Gets the center of the current world.
+    usage: /<command>
+    aliases: [ ]
